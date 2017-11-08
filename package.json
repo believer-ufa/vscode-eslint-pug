@@ -1,0 +1,15 @@
+{
+  "name": "vscode-eslint-pug",
+  "version": "1.0.0",
+  "description": "Testing Pug templates with VSCode ESLint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Akhmadullin <freeman.aka.ahmed@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-plugin-pug": "^1.1.0"
+  }
+}
