@@ -1,7 +1,7 @@
 {
 
     "eslint.validate": [
-        { "language" : "jade" },
+        { "language" : "pug" },
         "javascript"
     ],
     
