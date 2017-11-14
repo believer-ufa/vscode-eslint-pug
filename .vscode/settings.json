@@ -2,6 +2,7 @@
 
     "eslint.validate": [
         { "language" : "pug" },
+        { "language" : "jade" },
         "javascript"
     ],
     
